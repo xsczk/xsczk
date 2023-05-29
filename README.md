@@ -61,4 +61,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### 🖱️ Most used languages : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk)](https://github.com/xsczk/github-readme-stats)
