@@ -25,8 +25,8 @@
 ---
 ### 👨‍💻 About me 🎉
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam 🇻🇳
-- 👨‍🎓 Education: Hanoi University Of Science and Technology (HUST) <a href="https://hust.edu.vn/" target="_blank" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/vi/thumb/e/ef/Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_Khoa_H%C3%A0_N%E1%BB%99i.svg/1200px-Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_Khoa_H%C3%A0_N%E1%BB%99i.svg.png" title="HUST" alt="HUST" width="40"/>
+- 👨‍🎓 Education: Hanoi University Of Science and Technology (HUST)         <a href="https://hust.edu.vn/">
+  <img src="https://upload.wikimedia.org/wikipedia/vi/thumb/e/ef/Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_Khoa_H%C3%A0_N%E1%BB%99i.svg/1200px-Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_Khoa_H%C3%A0_N%E1%BB%99i.svg.png" title="HUST" alt="HUST" width="30"/>
 </a>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
