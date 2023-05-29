@@ -31,7 +31,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems on Hackerrank, explore new technology, read tech articles to improve my skills 😶😶. And of course, I still prefer to hangout with my friends 🤣🤣.
 ---
 ### :hammer_and_wrench: Languages and Tools:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
@@ -47,5 +47,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### :fire: My Stats :
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsczk&show_icons=true&theme=buefy)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk)](https://github.com/anuraghazra/github-readme-stats)
