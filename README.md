@@ -18,9 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=xsczk&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-### 📖 Quotes :
-
 <h3 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Minh Nghia, a sofware developer that still need to improve his knowledge every day
 </h3>
