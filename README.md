@@ -18,6 +18,39 @@
   <img src="https://komarev.com/ghpvc/?username=xsczk&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+### 📖 Quotes :
+const axios = require("axios");
+const fs = require("fs");
+
+const getQuote = async () => {
+  try {
+    const { data } = await axios.get("https://quotes.rest/qod?language=en&quot;);
+    const quote = data.contents.quotes[0].quote;
+    const author = data.contents.quotes[0].author;
+
+    console.log("new quote", `"${quote}"`);
+
+    return {
+      quote,
+      author,
+    };
+  } catch (err) {
+    console.error(err.message);
+    return {};
+  }
+};
+
+const generate = async () => {
+  const { quote, author } = await getQuote();
+
+  if (!quote) return;
+
+  fs.writeFileSync("README.md", `_**${quote}**_\n\n${author}`);
+};
+
+generate();
+
 <h3 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Minh Nghia, a sofware developer that still need to improve his knowledge every day
 </h3>
