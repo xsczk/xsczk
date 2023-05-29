@@ -20,3 +20,8 @@
   <img src="https://komarev.com/ghpvc/?username=xsczk&style=flat-square&color=blue" alt=""/>
 </div>
 
+### About me 🎉
+1. Education: 
+<div>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.m.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3ALogo_Hust.png&psig=AOvVaw30InYjZ-AwXGYkdbDlg8mN&ust=1685435604495000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj_1YWPmv8CFQAAAAAdAAAAABAE" width="50%"/>
+</div>
