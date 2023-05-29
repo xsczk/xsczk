@@ -24,7 +24,7 @@
 
 ---
 ### 👨‍💻 About me 🎉
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam 🇻🇳.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam 🇻🇳
 - 👨‍🎓 Education: Hanoi University Of Science and Technology (HUST)
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 - :seedling: Exploring Technical Content Writing.
@@ -47,7 +47,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### :fire: My Stats :
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsczk&show_icons=true&theme=buefy)
-</div>
+### 🖱️ Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk)](https://github.com/anuraghazra/github-readme-stats)
