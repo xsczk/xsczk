@@ -47,7 +47,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### :fire: My Stats :
-<picture>
+<picture align="center">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=xsczk&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
