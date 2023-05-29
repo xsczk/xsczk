@@ -18,10 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=xsczk&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h3 align="center">
   hey there, I am Minh Nghia, a sofware developer that still need to improve his knowledge every day
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 
 ### About me 🎉
 1. Education: 
