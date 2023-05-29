@@ -31,7 +31,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems on Hackerrank, explore new technology, read tech articles to improve my skills 😶😶. And of course, I still prefer to hangout with my friends 🤣🤣.
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div align="center" style={{backgroundColor: '#ffffff'}}>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
