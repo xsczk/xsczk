@@ -61,10 +61,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### 🖱️ Most used languages : 
-<picture align="center">
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk&layout=donut"
-  media="(prefers-color-scheme: dark)"
-/>
-</picture>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsczk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
