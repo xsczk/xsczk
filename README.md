@@ -27,7 +27,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam 🇻🇳
 - 👨‍🎓 Education: Hanoi University Of Science and Technology (HUST) 
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on leetcode; try to solved problem in many way to find the most efficient, explore new technology, read tech articles to improve my skills 😶😶. And of course, I still prefer to hangout with my friends 🤣🤣.
+- :zap: In my free time, I solve problems on leetcode; try to solve problem in many way to find the most efficient, explore new technology, read tech articles to improve my skills 😶😶. And of course, I still prefer to hangout with my friends 🤣🤣.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center" style={{backgroundColor: '#ffffff'}}>
